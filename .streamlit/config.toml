@@ -1,0 +1,12 @@
+# Optional Streamlit theme settings.
+# These set the default colours Streamlit uses for its own built-in
+# widgets, to match the dark LONDONBEACON look before our custom CSS
+# is even applied.
+
+[theme]
+base = "dark"
+primaryColor = "#e0724a"
+backgroundColor = "#0b0b12"
+secondaryBackgroundColor = "#1b1b28"
+textColor = "#f5f2ec"
+font = "sans serif"
